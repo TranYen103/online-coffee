@@ -29,7 +29,7 @@ html {
 body {
     color: #666666;
     font-size: 14px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
@@ -248,7 +248,7 @@ button {
     font-size: 17px;
     color: #a9a8a8;
     border-radius: 5px;
-    text-transform: uppercase;
+    *text-transform: uppercase;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
@@ -445,7 +445,7 @@ button {
     float: left;
     font-size: 40px;
     color: #3b3b3b;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     text-align: center;
     font-weight: bold;
     padding-bottom: 0px;
@@ -565,7 +565,7 @@ button {
     float: left;
     font-size: 40px;
     color: #3b3b3b;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     text-align: center;
     font-weight: bold;
     padding-bottom: 0px;
@@ -763,7 +763,7 @@ button {
     color: #252525;
     font-weight: bold;
     text-align: center;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .contact_section_2 {
