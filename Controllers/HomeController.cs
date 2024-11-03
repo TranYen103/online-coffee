@@ -44,10 +44,7 @@ namespace online_coffee.Controllers
             viewModel.listBlog2 = listBlogs;
             return View("Home", viewModel);
         }
-        public ActionResult Home()
-        {
-            return View();
-        }
+       
 
 
     }
